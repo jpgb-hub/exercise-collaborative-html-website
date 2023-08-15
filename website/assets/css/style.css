@@ -1,3 +1,12 @@
 body{
     background: whitesmoke;
 }
+
+.card-group .card {
+    margin: 0 10px; /* Esto añade 10px de espacio a la izquierda y derecha de cada card */
+}
+
+/* Cambio del color del título del proyecto a azul */
+.card-title {
+    color: blue;
+}
